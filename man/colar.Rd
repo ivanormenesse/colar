@@ -15,6 +15,6 @@ colar(x, y)
 Utiliza a função paste setando um parametro sep e aceitando duas variaveis iniciais
 }
 \examples{
-colar()
+colar("Ivan","Ormenesse") print(colar("Ivan","Ormenesse"))
 }
 \keyword{paste}

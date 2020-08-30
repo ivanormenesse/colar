@@ -7,7 +7,7 @@
 #' @keywords paste
 #' @export
 #' @examples
-#' colar()
+#' colar("Ivan","Ormenesse") print(colar("Ivan","Ormenesse"))
 
 colar <- function(x,y){
   paste(x,y, sep =" ")
